@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: wsung88@gmail.com
+- 🎯 I’m currently focusing on creating responsive web design
 - ⚡ Fun fact: I love to play golf and rock climb
 
 
