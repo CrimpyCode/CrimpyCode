@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me: wsung88@gmail.com
+- ⚡ Fun fact: I like to play golf and rock climb
+
+
 <!--
 **CrimpyCode/CrimpyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
