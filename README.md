@@ -1,3 +1,5 @@
+<img width="300px" src="Banner.JPG" align="center" alt="GitHub Banner" />
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning Javascript
