@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: wsung88@gmail.com
-- ⚡ Fun fact: I like to play golf and rock climb
+- ⚡ Fun fact: I love to play golf and rock climb
 
 
 <!--
