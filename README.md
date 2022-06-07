@@ -1,6 +1,5 @@
 <img width="1000px" src="Banner.JPG" align="center" alt="GitHub Banner" />
 
-### Hi there 👋
 
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: wsung88@gmail.com
