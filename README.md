@@ -6,6 +6,8 @@
 - 🎯 I’m currently focusing on creating responsive web design
 - ⚡ Fun fact: I love to play golf and rock climb
 
+[![Wonjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonjaeSung)](https://github.com/WonjaeSung/github-readme-stats)
+
 
 <!--
 **WonjaeSung/WonjaeSung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
