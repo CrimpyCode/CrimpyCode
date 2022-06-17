@@ -24,6 +24,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WonjaeSung&layout=compact&theme=gotham)](https://github.com/WonjaeSung/github-readme-stats)
 
+<img src="https://www.codewars.com/users/CrimpyCode/badges/large" />
+
+
 
 <!--
 **WonjaeSung/WonjaeSung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
