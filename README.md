@@ -4,7 +4,7 @@
 
 <p>- 🌱 I’m currently learning Javascript</p>
 <p>- 📫 How to reach me: wsung88@gmail.com</p>
-<p>- 🎯 I’m currently focusing on creating responsive web design</p>
+<p>- 🎯 I’m focusing on creating responsive web design</p>
 <p>- ⚡ Fun fact: I love to play golf and rock climb</p>
 
 
@@ -24,7 +24,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WonjaeSung&layout=compact&theme=gotham)](https://github.com/WonjaeSung/github-readme-stats)
 
+<a href="https://www.codewars.com/users/CrimpyCode">
 <img src="https://www.codewars.com/users/CrimpyCode/badges/large" />
+</a>
 
 
 
