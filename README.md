@@ -28,6 +28,8 @@
 <img src="https://www.codewars.com/users/CrimpyCode/badges/large" />
 </a>
 
+<h2>Projects</h2>
+![WeatherApp](https://user-images.githubusercontent.com/103071009/178041156-ea140511-ef3d-437a-8c14-8761b2b51476.gif)
 
 
 <!--
