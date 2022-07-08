@@ -29,11 +29,8 @@
 </a>
 
 <h2>Projects</h2>
-![](<iframe src="https://giphy.com/embed/BEInVjDL6fcsc8uUQm" width="480" height="214" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BEInVjDL6fcsc8uUQm">via GIPHY</a></p>)
+![WeatherApp](https://user-images.githubusercontent.com/103071009/178050008-ca2d25e9-6ca9-4085-a40a-d8766f61d4d4.gif)
 
-<iframe src="https://giphy.com/embed/BEInVjDL6fcsc8uUQm" width="480" height="214" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BEInVjDL6fcsc8uUQm">via GIPHY</a></p>
-
-<div style="width:100%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/BEInVjDL6fcsc8uUQm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/BEInVjDL6fcsc8uUQm">via GIPHY</a></p>
 
 
 
