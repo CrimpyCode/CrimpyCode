@@ -29,7 +29,7 @@
 </a>
 
 <h2>Projects</h2>
-![](https://giphy.com/gifs/BEInVjDL6fcsc8uUQm)
+![](<iframe src="https://giphy.com/embed/BEInVjDL6fcsc8uUQm" width="480" height="214" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BEInVjDL6fcsc8uUQm">via GIPHY</a></p>)
 
 <iframe src="https://giphy.com/embed/BEInVjDL6fcsc8uUQm" width="480" height="214" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BEInVjDL6fcsc8uUQm">via GIPHY</a></p>
 
