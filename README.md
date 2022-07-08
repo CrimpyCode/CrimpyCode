@@ -1,6 +1,6 @@
 <img width="800px" src="Banner.JPG" align="center" alt="GitHub Banner" />
 
-Hello! I'm Wonjae! I'm a full-stack software engineer and an accountant interested in merging my skills to ignite a spark in the tech space! I am currently open to any new clients or opportunities. Please feel free to contact me via email or LinkedIn.
+Hello! I'm Wonjae! I'm a full-stack software engineer and accountant, interested in merging my skills to ignite a spark in the tech space! I am currently open to any new freelance clients or opportunities. Please feel free to contact me via email or LinkedIn.
 
 
 <p>- 🌱 I’m currently learning Express and MongoDB!</p>
