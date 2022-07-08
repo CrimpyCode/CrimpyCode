@@ -1,8 +1,9 @@
 <img width="800px" src="Banner.JPG" align="center" alt="GitHub Banner" />
 
+Hello! I'm Wonjae! I'm a full-stack software engineer and an accountant interested in merging my skills to ignite a spark in the tech space! I am currently open to any new clients or opportunities. Please feel free to contact me via email or LinkedIn.
 
 
-<p>- 🌱 I’m currently learning Javascript</p>
+<p>- 🌱 I’m currently learning Express and MongoDB!</p>
 <p>- 📫 How to reach me: wsung88@gmail.com</p>
 <p>- 🎯 I’m focusing on creating responsive web design</p>
 <p>- ⚡ Fun fact: I love to play golf and rock climb</p>
