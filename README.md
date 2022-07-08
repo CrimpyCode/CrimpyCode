@@ -29,9 +29,7 @@
 </a>
 
 <h2>Projects</h2>
-![WeatherApp](https://user-images.githubusercontent.com/103071009/178050008-ca2d25e9-6ca9-4085-a40a-d8766f61d4d4.gif)
-
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![WeatherApp](https://user-images.githubusercontent.com/103071009/178054038-b3c3b1cc-a891-4050-81d9-3b774e52b8fa.gif)
 
 
 <!--
