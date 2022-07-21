@@ -1,12 +1,13 @@
 <img width="800px" src="Banner.JPG" align="center" alt="GitHub Banner" />
 
-Hello! I'm Wonjae! I'm a full-stack software engineer with background in accounting, interested in merging my skills to ignite a spark in the tech space! I am currently open to any new freelance clients or full-time opportunities. Please feel free to contact me via email or LinkedIn.
+Hello! I'm Wonjae! I'm a full-stack software engineer with background in accounting, interested in merging my skills to ignite a spark in the tech space! I am currently open to any new freelance clients or full-time opportunities. Please feel free to contact me via <a href="wsung88@gmail.com">email</a> or <a href="https://www.linkedin.com/in/wonjaesung/">LinkedIn</a>.
 
 
 <p>- 🌱 I’m currently learning Express and MongoDB!</p>
-<p>- 📫 How to reach me: wsung88@gmail.com</p>
+<p>- 📫 How to reach me: <a href="wsung88@gmail.com">wsung88@gmail.com</a></p>
 <p>- 🎯 I’m focusing on creating responsive web design</p>
-<p>- ⚡ Fun fact: I love to play golf and rock climb</p>
+<p>- ⚡ Fun fact: I lived half of my life in Korea!</p>
+<p>- 👨‍💻 All of my projects are available to view in my portfolio, <a href="https://wonjaesung.netlify.app/">wonjaesung.netlify.app</a></p>
 
 
 
